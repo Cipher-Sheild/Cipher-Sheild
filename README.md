@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdulelah Alolofi 👋</h1>
+<h1 align="center">Hi, I'm Abdulelah Alolofi (Th3Ciph3rSh3ild) 👋</h1>
 <h3 align="center">Cybersecurity Enthusiast | Pentesting • SOC • Purple Teaming</h3>
 
 <p align="center">
@@ -8,20 +8,25 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulelah-alolofi-63bbb1269"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:aboodolofi20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/abod.g2"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
+  <a href="https://www.hackerrank.com/profile/Cipher_Sheild"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <a href="https://certifications.tcm-sec.com/"><img src="https://img.shields.io/badge/PJPT%20Certified-Practical%20Junior%20Pentester-black?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
 </p>
 
 ---
 
 ### 🧠 About Me
-
-- 🎓 Third-year **B.Tech Computer Science & Engineering** student at Symbiosis Institute of Technology, Pune (Expected Graduation: 2027)
-- 🛡️ Focused on **Penetration Testing**, **SOC Operations**, and **Purple Teaming**
-- 🔍 Hands-on with **Active Directory attacks**, **web application pentesting (OWASP Top 10)**, **OSINT investigations**, and **DoS attack simulation & mitigation**
-- 🧪 Active **CTF player** — MetaCTF Flash CTF (Web, OSINT, Reverse Engineering, Crypto, Forensics), campus OSINT CTFs
-- 🧰 Building practical, real-world security tools and labs (see pinned repos below)
-- 🌱 Currently exploring: cybercrime tradecraft, advanced AD attack chains, and automation for recon workflows
+- Red Team Fellow @DeepCytes Cyber Labs UK.
+- 🎓 Final Year **B.Tech Computer Science & Engineering** student at Symbiosis Institute of Technology, Pune (Expected Graduation: 2027) 
+- 🛡️ Focused on Penetration Testing, SOC Operations, and Purple Teaming
+- 🔍 Hands-on with Active Directory attacks, web application pentesting (OWASP Top 10), OSINT investigations, AI Hacking & Defending, and DoS attack simulation & mitigation
+- 🖥️ SOC Analysis: phishing email triage & analysis, endpoint monitoring & alert investigation, log correlation and threat detection using Splunk SIEM & Elastic (ELK Stack), incident escalation workflows
+- 🧪 Active CTF player — MetaCTF Flash CTF (Web, OSINT, Reverse Engineering, Crypto, Forensics), BugForge.io
+- 🧰 Building practical, real-world security tools and labs (see pinned my repos)
+- 🌱 Currently exploring: advanced AI Defending , advanced AD attack chains, automation for recon workflows and IR
 
 ---
 
@@ -50,7 +55,6 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -101,6 +105,17 @@
 - Windows OS Forensics – Infosec
 - Cyber Security & Digital Forensics Internship – Cyber Secured India
 - CTRL. ALT. ACT. OSINT Program – Cyber Secured India
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulelah-alolofi-63bbb1269"><img src="https://img.shields.io/badge/LinkedIn-Abdulelah%20Alolofi-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/abod.g2"><img src="https://img.shields.io/badge/TryHackMe-abod.g2-212C42?style=flat-square&logo=tryhackme&logoColor=red"/></a>
+  <a href="https://www.hackerrank.com/profile/Cipher_Sheild"><img src="https://img.shields.io/badge/HackerRank-Cipher__Sheild-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
+  <a href="mailto:aboodolofi20@gmail.com"><img src="https://img.shields.io/badge/Email-aboodolofi20%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
