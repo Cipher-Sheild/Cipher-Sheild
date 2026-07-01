@@ -14,8 +14,10 @@
 
 <p align="center">
   <a href="https://certifications.tcm-sec.com/"><img src="https://img.shields.io/badge/PJPT%20Certified-Practical%20Junior%20Pentester-black?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
+  <a href="https://tryhackme.com/p/abod.g2"><img src="https://img.shields.io/badge/TryHackMe-Top%203%25-red?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+
 </p>
-- Top 3% On THM
+
 
 ---
 
