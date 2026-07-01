@@ -15,6 +15,7 @@
 <p align="center">
   <a href="https://certifications.tcm-sec.com/"><img src="https://img.shields.io/badge/PJPT%20Certified-Practical%20Junior%20Pentester-black?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
 </p>
+- Top 3% On THM
 
 ---
 
