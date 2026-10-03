@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdulelah Alolofi (Th3Ciph3rSh3ild) 👋</h1>
-<h3 align="center">Cybersecurity Enthusiast | Pentesting • SOC • Purple Teaming</h3>
+<h3 align="center">Cybersecurity Enthusiast | Pentesting • SOC Analyst • Purple Teaming</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%40+Symbiosis+Institute+of+Technology;Penetration+Testing+%7C+SOC+Analysis+%7C+Purple+Teaming;Building+Practical+Security+Projects;CTF+Player+%7C+OSINT+%7C+Active+Directory+Attacks" alt="Typing SVG" />
@@ -96,6 +96,7 @@
 ### 🎖️ Certifications
 
 - 🏆 **Practical Junior Penetration Tester (PJPT)** – TCM Security
+- 🏆 **Practical SOC Analyst Associate (PSAA)** – TCM Security
 - Practical Ethical Hacking (PEH) – TCM Security
 - AI Hacking 101 – TCM Security
 - Security Operations Center (SOC) Analyst – TCM Security
